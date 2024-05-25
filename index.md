@@ -1,6 +1,6 @@
 ---
-title: "Professor Whiskers"
-logo: catStat.png
+title: "Karissa Palmer"
+logo: KP_New.jpeg
 description:
 ---
 
