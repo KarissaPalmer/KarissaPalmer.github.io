@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
-title: Karissa Palmer
-%logo: /photoOfMe.jpg
-description: |
-  Pursuing PhD in Statistics at Colorado State University <br />
-  M.S. in Mathematics at South Dakota State University <br />
-  B.S. in Mathematics at University of South Dakota
+title: Professor Whiskers
+logo: catStat.png
+description: 
+
