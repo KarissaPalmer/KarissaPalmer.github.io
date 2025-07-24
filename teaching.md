@@ -2,6 +2,7 @@
 ## Colorado State University
 - STAT 201: General Statistics
 - STAT 301/7: Introduction to Applied Statistics
+- STAT 315: Introduction to Theory and Practice of Statistics
 ## South Dakota State University
 - MATH 114: College Algebra
 - MATH 121: Survey of Calculus
