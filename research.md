@@ -1,4 +1,4 @@
-My current research is primarily for my dissertation, which is centered on spatial data. Two other formative projects are included as well.
+My current research is primarily for my dissertation, which is centered on Arctic sea ice data. Two other formative projects are included as well.
 
 ## Arctic Ice Sheet Movement Tracking
 
