@@ -1,8 +1,8 @@
-My current research is primarily for my dissertation, which is focused on spatial statistics. Two other formative projects are included as well.
+My current research is primarily for my dissertation, which is centered on spatial data. Two other formative projects are included as well.
 
 ## Arctic Ice Sheet Movement Tracking
 
-- My first project is centered around using Bayesian nonparametric methods for spatial clustering, to track movement of ice sheets in the Beaufort Sea.
+- My first project concentrates on using Bayesian nonparametric methods for clustering spatial, functiona data in order to track movement of ice sheets in the Beaufort Sea.
 
 ## Variable Correlation in Logistic Regression
 - I worked as a research assistant during my Master's program at South Dakota State University, with funding generously provided by CAPITAL Services of Sioux Falls, South Dakota.
