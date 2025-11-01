@@ -14,3 +14,6 @@ I began working in the tutoring center at the University of South Dakota working
 
 # Consulting
 In Summer 2023 I worked for approximately 40 hours in the Graybill Statistical Consulting Lab at Colorado State University. Additionally, I consulted on a project for CSU's Graduate School.
+
+# Other Mentoring
+My advisor, Dr. Yawen Guan, and I worked with an undergraduate student in Summer 2024 to create a Shiny App related to my first dissertation project. I worked closely with the student to lead the mentoring. 
