@@ -2,7 +2,8 @@ My current research is primarily for my dissertation, which is centered on Arcti
 
 ## Arctic Ice Sheet Movement Tracking
 
-- My first project concentrates on using Bayesian nonparametric methods for clustering spatial, functiona data in order to track movement of ice sheets in the Beaufort Sea.
+- My first project concentrates on using Bayesian semiparametric methods for clustering spatial functional data in order to track movement of ice sheets in the Beaufort Sea.
+- I am advised by [Dr. Yawen Guan](https://yawenguan.github.io).
 
 ## Variable Correlation in Logistic Regression
 - I worked as a research assistant during my Master's program at South Dakota State University, with funding generously provided by CAPITAL Services of Sioux Falls, South Dakota.
