@@ -1,5 +1,7 @@
 # Teaching Assistant
 ## Colorado State University
+Courses where I have been the primary instructor:
+- STAT 100: Statistical Literacy
 - STAT 201: General Statistics
 - STAT 301/7: Introduction to Applied Statistics
 - STAT 315: Introduction to Theory and Practice of Statistics
