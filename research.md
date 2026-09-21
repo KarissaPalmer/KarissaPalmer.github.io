@@ -1,15 +1,13 @@
-As a feline statistician, my research interests span a variety of topics related to cat behavior, health, and well-being. Below are some examples of my recent research projects:
+My current research is primarily for my dissertation, developing spatial methods for Arctic Sea Ice data. I am advised by [Dr. Yawen Guan](https://yawenguan.github.io). Two other formative projects are included as well.
 
-## A Bayesian Approach to Modeling Catnip Preference
+## Arctic Ice Sheet Movement Tracking
+- My first project concentrates on using Bayesian semiparametric methods for clustering spatial functional data in order to track movement of ice sheets in the Beaufort Sea.
 
-- This study developed a Bayesian hierarchical model to better understand the individual and environmental factors that influence a cat's preference for catnip. Our results suggest that age, sex, and the presence of other cats in the household are important predictors of catnip preference.
-## DeepCAT: A Deep Learning Framework for Cat Image Classification
+## Variable Correlation in Logistic Regression
+- I worked as a research assistant during my Master's program at South Dakota State University, as a fellow for [CAPITAL Card Services](https://capitalsvcs.com) in Sioux Falls, SD.
+- We investigated multicollinearity and teh variance inflation factor in a logistic regression model, with applications to credit scoring systems.
 
-- This study proposed a deep learning framework called DeepCAT for automated classification of cat images. Our model achieved state-of-the-art performance on a benchmark dataset, demonstrating the potential of deep learning for cat-related image analysis.
-## Feline Regression Models for Mouse Hunting: A Comparative Study
-
-- This study compared the performance of different regression models in predicting a cat's mouse hunting behavior. Our results showed that a Bayesian regression model with adaptive priors outperformed other models in terms of predictive accuracy.
-
-
-My research has been published in top-tier statistical and computational journals, including the Journal of the American Statistical Association and the Proceedings of the International Conference on Machine Learning. Please refer to my publications page for a complete list of my research articles.
-  
+## Honeybee Population Dynamics
+- We developed a system of differential equations to model honeybee populations where the impact of the *varroa destructor* mite was of key importance.
+- This was my undergraduate Honors Thesis at the University of South Dakota.
+- I worked with [Dr. Dan Van Peursem](https://www.usd.edu/research-and-faculty/faculty-and-staff/dan-vanpeursem) who is a hobby beekeeper and helped spark an interest in bees. 

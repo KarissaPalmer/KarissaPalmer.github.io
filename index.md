@@ -1,6 +1,6 @@
 ---
 title: "Karissa Palmer"
-logo: KP_New.jpeg
+logo: KP_Pic.jpeg
 description:
 ---
 
