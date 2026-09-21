@@ -3,7 +3,7 @@ I primarily do applied statistics, with most of my experience being in the ecolo
 ## Sea ice movement
 - Currently working on creating an emulator for velocity of ice sheet movement.
 - We developed a product partition model for clustering movement of sea ice in the Arctic, incorporating functional data methods with Bayesian nonparametrics.
-- Made an R package for clustering functional multivariate data.
+- Made an R package for clustering functional multivariate data, available [here](https://github.com/KarissaPalmer/Traj_PPM).
 
 ## Variable Correlation in Logistic Regression
 - I worked as a research assistant during my MS at SDSU, as a fellow for [CAPITAL Card Services](https://capitalsvcs.com) in Sioux Falls, SD.
