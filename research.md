@@ -12,8 +12,8 @@ I primarily do applied statistics, with most of my experience being in the ecolo
 ## Honeybee Population Dynamics
 - We developed a system of differential equations to model honeybee populations where the impact of the *varroa destructor* mite was of key importance.
 - This was my undergraduate Honors Thesis at the University of South Dakota.
-- I worked with [Dr. Dan Van Peursem](https://www.usd.edu/research-and-faculty/faculty-and-staff/dan-vanpeursem) who is a hobby beekeeper :)
+- I worked with [Dr. Dan Van Peursem](https://www.usd.edu/research-and-faculty/faculty-and-staff/dan-vanpeursem), who is a hobby beekeeper :)
 
 ### Ptolemy's Theorem
-- A small project in undergrad with [Dr. Dan Kemp](https://www.sdstate.edu/directory/dan-kemp). I did a poster
+- A small project in undergrad with [Dr. Dan Kemp](https://www.sdstate.edu/directory/dan-kemp) on Ptolemy's Theorem, complex numbers, and the Law of Cosines. I did a poster
 presentation at MathFest in Chicago, IL in 2017.
